@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+///  一个虚线的组件封装
 class DashedLine extends StatelessWidget {
   // 虚线的方向 水平或者垂直
   final Axis axis;

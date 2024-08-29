@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// 一个星星评分的组件封装，根据评分来计算点亮的星星个数
 class StarRating extends StatefulWidget {
 
   // 当前评分
